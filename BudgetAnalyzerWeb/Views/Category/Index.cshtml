@@ -1,0 +1,34 @@
+﻿@model BudgetAnalyzerWeb.Models.CategoryList
+
+@{
+    ViewBag.Title = "Categories";
+}
+
+<br/>
+
+@section scripts{
+    <script src="@Url.Content("~/Scripts/CategoryOverview.js")"></script>
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-group" style="width: 100%">
+        @Html.LabelFor(x => x.SelectedCategory)
+        @Html.DropDownListFor(x => x.SelectedCategory, new SelectList(Model.List, "Name", "Name"), new { @id = "SelectedCategory" })
+
+        <br/>
+        <br />
+        <label for="PatternsForCategory" id="PatternsForCategoryLabel">Patterns</label>
+        <select size="3" class="form-control" style="height: 300px; width:500px" id="PatternsForCategory"></select>
+        <br />
+        <button id="RemovePatternButton" type="button" class="btn btn-primary btn-sm">Remove selected item(s)</button>
+
+        <br/>
+        <br />
+        <label for="NewItem">New Item:</label>
+        <input type="text" class="form-control" id="NewItem">
+        <br />
+        <button id="AddPatternButton" type="button" class="btn btn-primary btn-sm">Add</button>
+        
+    </div>
+}

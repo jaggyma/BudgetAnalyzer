@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Overview";
+}
+
+@*<div class="dropdown" style="margin: 10px">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        Choose overview...
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropDownTrxCountType">
+        <li><a href="?GraphType=GetLast24Hours">Transaction count per minute (last 24h)</a></li>
+        <li><a href="?GraphType=GetLastDay">Transaction count per minute (one day before, same range as above)</a></li>
+        <li><a href="?GraphType=GetOneWeek">Transaction count per hour (last 7 days)</a></li>
+    </ul>
+</div>*@
+
+<table width="100%">
+    <tr>
+        <td width="30%">
+            <div style="height: 400px; overflow-y:scroll">
+                <table class="table table-hover table-condensed" id="allPatterns">
+                    <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Count</th>
+                        <th>Sum</th>
+                        <th>%</th>
+                    </tr>
+                    </thead>
+                </table>
+            </div>
+        </td>
+
+        <td width="70%">
+            <div id="overviewGraph" style="min-width: 50px; height: 300px; vertical-align: top;"></div>
+        </td>
+    </tr>
+    <tr>
+        <td width="100%" colspan="2">
+            <div class="page-header" id="resultheader">
+            </div>
+            <table class="table table-hover table-condensed" style="margin-top: 30px" id="result">
+                <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Description</th>
+                    <th>Amount</th>
+                </tr>
+                </thead>
+            </table>
+        </td>
+    </tr>
+</table>
+
+@section scripts{
+    <script src="@Url.Content("~/Scripts/Highcharts-4.0.1/js/highcharts.js")"></script>
+    <script src="@Url.Content("~/Scripts/BudgetAnalyzer.js")"></script>
+}

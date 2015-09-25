@@ -1,0 +1,28 @@
+Ignore:Cembra Money AG#Cembra Money Bank#Gutschrift Marcel Jaggy
+OnceOnly:Auto Zuri West#Auto Züri West
+Lohn:Gutschrift Six Payment Services AG;Gutschrift Six Group Services AG
+Bancomat:Bancomat-Bezug
+Auto:Parkhaus#REIFENDIREKT#TOURINGCLUBSUISSEVERNIER#SBBP+Rail#Regionalpolizei#Tanken#Einkauf Pneuhaus Arni#Parking#Zurich Connect#AMAG Automobil- und Motoren AG#Kläui Zug Kläui Autohandel#Strassenverkehrsamt Kanton Aargau#Garage H. Schmidmeister 8905 Arni#AMAG Autobomobil- und Motoren AG#Strassenverkehrsamt des Kantons Aargau#Zürich Versicherungs-Gesellschaft#Auto Gretener AG#test
+Miete:Herr Theodor Bill-Steimen
+Hypothek:Belastung Zins Vertrags-Nr. 69454.26/1
+Putzfrau:Cristina Nietlispach#Sozialversicherungsanstalt SVA Kanton Aargau#Solida Unfallversicherung
+Gemeinsam:Marcel und Yvonne Jaggy#Marcel Jaggy und Yvonne Portmann
+Kreditkarte:UBS AG (Credit Cards)
+Kinderkrippe:Kimi
+Telefon/Fernsehen/Internet:upc cablecom#hosttech#FireStorm ISP
+Versicherung:CSS#Allianz Suisse
+Natel:M-Budget-MobileBern#Swisscom#Zollet Fabian Buchenweg
+Arzt:Apotheke#Naturmedizin#Praxis Dr. C. Baumgartner#Spital Affoltern#Dr. med. Martin Jirovec#Herr Dr. med. Stephan Blum#medica Medizinische Laboratorien
+Lebensmittel:LeShopSAMobile#Migros-Genossenschafts-Bund Fachmärkte Online-Shop#Einkauf COOP#Coop#Migros#Einkauf MIGROS#Volg#Konditorei
+Essen:CulinariumAG#Restaurant
+Einkauf:INTERNETSTORESESSLINGEN#sugru#PP*1218CODE4029357733#PAYPAL#DECATHLON#Stefan Wiederkehr#Renata Leuenberger#Peter Lattmann#Lesum GmbH#Pearl Schweiz GmbH#Lüscher Baumschule#Brack Electronics AG#Changemaker AG#Latter Alister Corin Simon Nubuc#Hess Naturtextilien#Gonser International Trading#Wertkarten-Ladung#Bancomat#Einkauf#Viseca#Credit Cards#Urbach Optik#Coiff#Zalando#Haas Bäckerei#Ex Libris AG#Neue Zürcher Zeitung AG#Le Shop SA#Mercura gmbh#Diafora AG#K-Tipp#Rotaract Club Freiamt#BabyJoe.ch#4mybaby#Ifolor AG#Herr Andreas Bärtsch Suvaditsch#UBS AG C/O UBS Card Center#Antonia Steiner#Cembra Money AG#Josef Heer Neuhüsern
+Nespresso:Nestlé Nespresso
+Steuern:Bundessteuer#Steuerbezug#Finanzverwaltung Arni
+Sport:Gymfit
+Haus:Konsortium#Elektra-Genossenschaft 8905 Arni AG#Billag AG#AGV Aargauische Gebäudeversicherung#Freiämter Storen-Service GmbH#Miteg Gjuchstrasse 8905 Arni AG#MEG Gjuchstr. 2#Stefan Biderbost Elektr. Anlagen
+Ferien:Hotel#IBISHYERES#SUNSTOPSHOPPOING#ESCOT1407-1407MANDELIEUCED#ESCOT2307-2607MANDELIEUCED#DAMEVICTORIAHYERES#SMCASINOCS969HYERES#JETHYERES
+Sonst:Postfinance#UBSPaymitZürich#Elternverein#Depotgebühren#Etat du Valais#Gebühren Versand#Tausendkind GmbH#Verein Murimoos Werken
+Hochzeit:Bruno Weber
+Snacks:SIXManagementAGZürich
+Yvonne:Yvonne Jaggy Gjuchstrasse 39 8905 Arni
+ÖV:ZVV BonusPass
